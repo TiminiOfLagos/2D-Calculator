@@ -15,8 +15,8 @@ main {
 }
 
 section {
-  width: 20%;
-  height: 50%;
+  max-width: 20%;
+  max-height: 50%;
   background: #565656;
   padding: 1rem;
   border-radius: 18px;
